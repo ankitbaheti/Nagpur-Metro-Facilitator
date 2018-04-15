@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:orientation="vertical"
+    android:weightSum="5"
+    tools:context=".MainActivity"
+    android:id="@+id/linear1"
+    >
+
+        <Button
+            style="@style/MainUI"
+            android:layout_weight="1"
+            android:textColor="@color/White"
+            android:background="@color/ui11"
+            android:drawableLeft="@drawable/route"
+            android:id="@+id/route"
+            android:onClick="find_Route"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:text="Route Between Stations"
+            />
+        <Button
+            style="@style/MainUI"
+            android:layout_weight="1"
+            android:background="@color/ui22"
+            android:drawableLeft="@drawable/nearest_station"
+            android:id="@+id/station_locator"
+            android:onClick="find_nearest_Station"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:text="Nearest Metro Station"
+            />
+        <Button
+            style="@style/MainUI"
+            android:layout_weight="1"
+            android:onClick="gps_sync"
+            android:drawableLeft="@drawable/gps_sync"
+            android:background="@color/ui33"
+            android:id="@+id/gps_synch"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:text="@string/title_activity_gps__sync"
+            />
+        <Button
+            android:drawableLeft="@drawable/time"
+            style="@style/MainUI"
+            android:background="@color/ui44"
+            android:id="@+id/eta"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:text="ETA"
+            android:onClick="eta"
+            />
+        <Button
+            android:drawableLeft="@drawable/help"
+            style="@style/MainUI"
+            android:onClick="help"
+            android:background="@color/ui55"
+            android:layout_weight="1"
+            android:id="@+id/other_info"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:text="Other Info"
+            />
+
+
+</LinearLayout>

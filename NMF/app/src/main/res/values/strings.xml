@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NMF</string>
+
+
+    <string name="main_activity_name">Nagpur Metro Facilitator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_route">Route</string>
+    <string name="title_activity_station_locator">Station Locator</string>
+    <string name="title_activity_station_loc_activity">Nearest Station</string>
+    <string name="title_activity_activity_route">Route</string>
+    <string name="title_activity_route__information">Route Information</string>
+    <string name="title_activity_gps__sync">Metro Locator </string>
+    <string name="title_activity_et">ETA</string>
+    <string name="title_activity_help">Help</string>
+</resources>

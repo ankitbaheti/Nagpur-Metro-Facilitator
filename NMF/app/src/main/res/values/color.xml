@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Grey">#cfd8dc</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+    <color name="Orange">#ffcc80</color>
+    <color name="DarkRed">#d50000</color>
+    <color name="Magenta">#ff8a80</color>
+    <color name="DarkOrange">#ff6d00</color>
+    <color name="FadeOrange">#fff3e0</color>
+    <color name="NiceOrange">#ffe0b2</color>
+    <color name="CrispOrange">#ffb74d</color>
+    <color name="DoubleOrange">#ffa726</color>
+    <color name="Orange500">#ff9800</color>
+    <color name="Orange600">#fb8c00</color>
+    <color name="Orange700">#f57c00</color>
+    <color name="Orange800">#ef6c00</color>
+    <color name="Orange900">#e65100</color>
+
+
+
+    <color name="DeepOrange100">#ffccbc</color>
+    <color name="DeepOrange200">#ffab91</color>
+    <color name="DeepOrange300">#ff8a65</color>
+    <color name="DeepOrange400">#ff7043</color>
+    <color name="DeepOrange500">#ff7043</color>
+    <color name="DeepOrange600">#f4511e</color>
+    <color name="DeepOrange700">#e64a19</color>
+    <color name="DeepOrange800">#d84315</color>
+    <color name="DeepOrange900">#bf360c</color>
+
+    <color name="OrangeUi">#ff9100</color>
+    <color name="Red">#f44336</color>
+    <color name="teal">#009688</color>
+    <color name="DarkPink">#880e4f</color>
+    <color name="RedKata">#b71c1c</color>
+
+    <color name="ui1">#c44c5b</color>
+    <color name="ui2">#ac325f</color>
+    <color name="ui3">#792654</color>
+    <color name="ui4">#5d2659</color>
+    <color name="ui5">#2b275a</color>
+
+    <color name="ui11">#ffb00e</color>
+    <color name="ui21">#d75e07</color>
+    <color name="ui22">#ef6908</color>
+    <color name="ui32">#c43d00</color>
+    <color name="ui33">#da4400</color>
+    <color name="ui44">#a20200</color>
+    <color name="ui55">#800003</color>
+</resources>
+
+
